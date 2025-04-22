@@ -45,3 +45,8 @@ h2{
 #end{
   text-align: right;
 }
+
+img{
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px;
+}
